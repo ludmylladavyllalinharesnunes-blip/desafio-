@@ -1,0 +1,16 @@
+.info-certificacao {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.info-certificacao h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.info-certificacao p {
+    font-size: 13px;
+    color: #666666;
+}
